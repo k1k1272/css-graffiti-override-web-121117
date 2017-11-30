@@ -1,6 +1,6 @@
 body {
   background: black url(../images/sketch.jpg) no-repeat center;
-  background-size: cover; 
+  background-size: cover;
 }
 
 #wall {
@@ -27,7 +27,7 @@ body {
 .tag-1 {
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
-  display: none;
+  display: block;
 }
 
 #wall #tag-2 {
