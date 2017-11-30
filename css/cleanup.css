@@ -13,6 +13,7 @@
 #wall > * {
   display: none;
 }
+
 .parent > * {
   display: none;
 }
