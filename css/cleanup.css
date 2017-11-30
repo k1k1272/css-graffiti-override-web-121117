@@ -10,7 +10,9 @@
   display: none;
 }
 
-
+#wall > * {
+  display: none;
+}
 .parent > * {
   display: none;
 }
