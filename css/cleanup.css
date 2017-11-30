@@ -10,6 +10,7 @@
   display: none;
 }
 
-.parent .tag-6 {
+
+.parent > * {
   display: none;
 }
